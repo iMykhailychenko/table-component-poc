@@ -24,7 +24,7 @@ Some keyboard events
 
 Flexible
 ```
-import { Table, TBody, Th, THead, Tr } from '../components/table/table';
+import { Table, TBody, THead, Tr, Td, Th } from '../components/table/table';
 
 <Table>
     <THead>
