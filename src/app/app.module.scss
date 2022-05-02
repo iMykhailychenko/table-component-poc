@@ -1,0 +1,27 @@
+.heading {
+    padding: 40px;
+    background: #eee;
+}
+
+.container {
+    width: 100%;
+    max-width: 130rem;
+    margin: 5rem auto 0;
+}
+
+.table {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.percentage {
+    padding: 0.2rem 1rem;
+    border-radius: 0.3rem;
+    background: var(--gray-3);
+}
+
+.img {
+    height: 3rem;
+    width: 6rem;
+    border-radius: 0.4rem;
+}
