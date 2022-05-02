@@ -4,10 +4,15 @@ Some keyboard events
 
 
 > Command + A - select all
+ 
 > Control + Z / Delete / Backspace - undo
+ 
 > ArrowUp / ArrowDown - navigate
+ 
 > Enter - select item
+ 
 > Shift + mouse click - select range
+
 > Escape - unselect all items
 
 
