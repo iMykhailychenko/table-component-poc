@@ -22,7 +22,7 @@ Some keyboard events
 
 1. Dividing the table component into smaller parts will increase the flexibility of the architecture
 
-More flexible
+Flexible
 ```
 import { Table, TBody, Th, THead, Tr } from '../components/table/table';
 
